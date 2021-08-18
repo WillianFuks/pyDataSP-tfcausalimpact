@@ -1,0 +1,11 @@
+RISE
+jupyter
+tensorflow
+tensorflow-probability
+daft
+seaborn
+pandas
+matplotlib
+tfcausalimpact
+pandas-datareader
+statsmodels
